@@ -33,7 +33,3 @@ This project highlights essential front-end development skills, responsive layou
 | Interactivity | JavaScript (ES6) |
 | Design Tools | Figma |
 | Version Control | Git & GitHub |
-
----
-## 🧩 Folder Structure
-
